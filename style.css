@@ -1,0 +1,85 @@
+ body{
+    margin: 0; 
+    cursor:url('images/Select.png'),pointer;
+    cursor:url('images/Select.png'),progress;
+    cursor:url('images/Select.png'),default;
+    cursor:url('images/Select.png'),text;
+ }
+ .starr{
+   content: '';
+   width: 279px;
+   height: 355px;
+   background: url('images/wer.png') center/cover no-repeat;
+   position: absolute;
+   top: 417px;
+   left: -41px;
+ }
+ .starr2{
+  content: '';
+  width: 222px;
+  height: 199px;
+  background: url('images/dance.gif') center/cover no-repeat;
+  position: absolute;
+  top: 503px;
+  left: 949px;
+  border: 100px;
+
+
+ }
+
+
+ .starr3{
+  content: '';
+  width: 538px;
+  height: 392px;
+  background: url('images/forblod.png') center/cover no-repeat;
+  position: absolute;
+  top: 232px;
+  left: -80px;
+  border: 260px;
+
+ }
+
+ .starr4{
+  content: '';
+  width: 141px;
+  height: 121px;
+  background: url('images/cry.gif') center/cover no-repeat;
+  position: absolute;
+  top: 454px;
+  left: 207px;
+  border: 238px;
+ }
+ .starr5 {
+  content: '';
+  width: 478px;
+  height: 427px;
+  background: url("images/forblod.png") center/cover no-repeat;
+  position: absolute;
+  top: 318px;
+  left: -143px;
+  border: 260px;
+
+}
+.starr6 {
+  content: '';
+    width: 520px;
+    height: 356px;
+    background: url(images/forblod.png) center/cover no-repeat;
+    position: absolute;
+    top: 647px;
+    left: -80px;
+    border: 260px;
+}
+
+
+.starr7{
+  content: '';
+  width: 141px;
+  height: 121px;
+  background: url(images/ded.gif) center/cover no-repeat;
+  position: absolute;
+  top: 757px;
+  left: 219px;
+  border: 238px;
+}
