@@ -5,6 +5,9 @@
     cursor:url('images/Select.png'),default;
     cursor:url('images/Select.png'),text;
  }
+ a:hover{
+  cursor:url('images/Select.png'),pointer;
+ }
  .starr{
    content: '';
    width: 279px;
